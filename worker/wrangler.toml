@@ -5,5 +5,5 @@ compatibility_flags = []
 workers_dev = true
 compatibility_date = "2021-10-10"
 kv_namespaces = [
-  { binding = "GOTO_KV", id = "c18ba3e53a615d91bb4db801f3d569ce" },
+  { binding = "GOTO_KV", id = "b3a4312eb4da4760a18e92e05ff7fe1e" },
 ]
